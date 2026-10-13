@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs and automation output
+@AutomationLog.txt
+*.log
+
+# Local user configs
+window_config.json
+
+# Environments and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
